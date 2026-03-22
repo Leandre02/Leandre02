@@ -3,7 +3,7 @@
 💻 Passionate web developer building modern,
 performant web apps and backend services.
 
-🛠️ Go · Docker · PostgreSQL · PHP · React · HTML · Python
+🛠️ Go · Docker · PostgreSQL · PHP · React · HTML · Python · MongoDB · Node.js
 
 🚀 Here you'll find my open-source projects,
 personal builds, and school work.
